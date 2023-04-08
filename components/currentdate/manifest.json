@@ -1,0 +1,24 @@
+{
+  "name": "currentdate",
+  "namespace": "currentdate",
+  "description": "Managed Component  that, on pageview, logs the current ate to the browser’s console. ",
+  "icon": "assets/icon.svg",
+  "permissions": {
+    "client_network_requests": {
+      "description": "This permission is used to facilitate better a user experience.",
+      "required": false
+    },
+    "provide_client_events": {
+      "description": "This permission is used to facilitate better a user experience.",
+      "required": false
+    },
+    "provide_pageviews": {
+      "description": "This permission is used to facilitate better a user experience.",
+      "required": false
+    },
+    "execute_unsafe_scripts": {
+      "description": "Simple logs for debugging purposes",
+      "required": false
+    }
+  }
+}
