@@ -1,5 +1,8 @@
-# currentDate Managed Component
+# CurrentDate Managed Component
 
+## 🔖 Final Case Study Assignment
+
+Build an MC that, on pageview, logs the current Date to the browser’s console.
 ## Documentation
 
 Managed Components docs are published at **https://managedcomponents.dev** .
@@ -14,23 +17,11 @@ Find out more about Managed Components [here](https://blog.cloudflare.com/zaraz-
 
 1. Make sure you're running node version >=18.
 2. Install dependencies with `npm i`
-3. Run unit test watcher with `npm run test:dev`
+3. Build the component with `npm run build`
 
 ## ⚙️ Tool Settings
 
 > Settings are used to configure the tool in a Component Manager config file
-
-### Example Setting `boolean`
-
-`exampleSetting` can be the pixelID or any other essential/optional setting like the option to anonymize IPs, send ecommerce events etc.
-
-## 🧱 Fields Description
-
-> Fields are properties that can/must be sent with certain events
-
-### Human Readable Field Name `type` _required_
-
-`field_id` give it a short description and send to a more detailed reference [Find more about how to create your own Managed Component](https://managedcomponents.dev/).
 
 ## 📝 License
 
