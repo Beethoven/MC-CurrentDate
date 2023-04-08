@@ -1,6 +1,6 @@
 # Current Date PageView Managed Component
 
-## Final Case Study Assignment
+## 🔖 Final Case Study Assignment
 
 Build an MC that, on pageview, logs the current Date to the browser’s console.
 
@@ -11,35 +11,14 @@ Build an MC that, on pageview, logs the current Date to the browser’s console.
 ## 🚀 Quickstart local dev environment
 
 1. Make sure you're running node version >=18.
-2. Install dependencies with `npm i`
-3. Run unit test watcher with `npm run test:dev`
+2. Run 'npx webcm`
+3. WebCM run the currentdate - Managed Components specified in webcm.config and start the server
+
+## 📚 Read more
+
+- See [managedcomponents.dev](https://managedcomponents.dev) for more information about Managed Components and how they work
+- Check the [Managed Component Starter Template](https://github.com/managed-components/starter-template) for buildin your own Managed Component
 
 ## 📝 License
 
 Licensed under the [Apache License](./LICENSE).
-
-## 💜 Thanks
-
-Thanks to everyone contributing in any manner for this repo and to everyone working on Open Source in general.
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/simonabadoiu"><img src="https://avatars.githubusercontent.com/u/1610123?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Simona Badoiu</b></sub></a><br /><a href="https://github.com/managed-components/@managed-components/demo/commits?author=simonabadoiu" title="Code">💻</a></td>
-    <td align="center"><a href="https://yoavmoshe.com/about"><img src="https://avatars.githubusercontent.com/u/55081?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Yo'av Moshe</b></sub></a><br /><a href="https://github.com/managed-components/@managed-components/demo/commits?author=bjesus" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/jonnyparris"><img src="https://avatars.githubusercontent.com/u/6400000?v=4?s=75" width="75px;" alt=""/><br /><sub><b>Ruskin</b></sub></a><br /><a href="https://github.com/managed-components/@managed-components/demo/commits?author=jonnyparris" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
